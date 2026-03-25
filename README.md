@@ -1,5 +1,5 @@
 # The `stem-pset` Package
-<div align="center">Version Unreleased</div>
+<div align="center">Version 0.1.0</div>
 
 Homework template for STEM coursework and problem sets. Spin-off of [adaptable-pset](https://github.com/stuxf/adaptable-pset?tab=readme-ov-file) with some modifications and additional functions for notation I commonly find myself using in proofs.
 
