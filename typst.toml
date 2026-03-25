@@ -4,9 +4,9 @@
 name = "stem-pset"
 version = "0.1.0"
 entrypoint = "src/lib.typ"
-authors = ["Samyak Jain"]
+authors = ["Samyak Jain <samyakj5@illinois.edu>"]
 license = "Unlicense"
-description = "A problem set template for STEM coursework."
+description = "A modular problem set template for STEM coursework."
 repository = "https://github.com/samyakj5/stem-pset"
 keywords = ["pset", "homework", "stem", "STEM"]
 categories = ["report"]
