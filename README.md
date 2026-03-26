@@ -1,4 +1,4 @@
-# The `stem-pset` Package
+# The `nova-pset` Package
 <div align="center">Version 0.1.0</div>
 
 Homework template for STEM coursework and problem sets. Spin-off of [adaptable-pset](https://github.com/stuxf/adaptable-pset?tab=readme-ov-file) with some modifications and additional functions.
@@ -20,7 +20,7 @@ Homework template for STEM coursework and problem sets. Spin-off of [adaptable-p
 ## Example Code
 
 ```typ
-#import "@preview/stem-pset:0.1.0": *
+#import "@preview/nova-pset:0.1.0": *
 
 #let class = "math 347h"
 #let assignment = "Homework 4"

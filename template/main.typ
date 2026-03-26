@@ -1,4 +1,4 @@
-#import "@preview/stem-pset:0.1.0": *
+#import "@preview/nova-pset:0.1.0": *
 
 #let class = "math 347h"
 #let assignment = "Homework 4"

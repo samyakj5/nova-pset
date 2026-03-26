@@ -1,4 +1,4 @@
-#import "/src/lib.typ" as stem-pset: *
+#import "/src/lib.typ" as nova-pset: *
 
 #let class = "math 347h"
 #let assignment = "Homework 4"
