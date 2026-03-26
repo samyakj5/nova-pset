@@ -7,15 +7,21 @@ Homework template for STEM coursework and problem sets. Spin-off of [adaptable-p
 
 ### Example front page
 
-![example1](example.png)
+![Front page of a math homework set with title, author, and problem boxes](https://raw.githubusercontent.com/samyakj5/nova-pset/458937885f6a357d7e11d089190ea9e017e7cb50/example.png)
 
 ### Example logo integrations
 
-![uofi](uofi_example.png)
+![Homework set with square logo in the top right corner](https://raw.githubusercontent.com/samyakj5/nova-pset/458937885f6a357d7e11d089190ea9e017e7cb50/square_example.png)
 
-![yale](yale_example.png)
+![Homework set with circle logo in the top right corner](https://raw.githubusercontent.com/samyakj5/nova-pset/458937885f6a357d7e11d089190ea9e017e7cb50/circle_example.png)
 
-![mit](mit_example.png)
+![Homework set with triangle logo in the top right corner](https://raw.githubusercontent.com/samyakj5/nova-pset/458937885f6a357d7e11d089190ea9e017e7cb50/triangle_example.png)
+
+## Logos
+The example images use placeholder logos. To use your own logo, obtain it from your institution and pass it as an image:
+```typ
+#let logo = image("your-logo.png", height: 25pt)
+```
 
 ## Example Code
 
