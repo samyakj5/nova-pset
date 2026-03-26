@@ -12,16 +12,16 @@ keywords = ["pset", "homework", "stem"]
 categories = ["report"]
 # compiler = ""
 exclude = [
-  ".github",
   "docs",
   "scripts",
-  "tests",
   ".typstignore",
   "Justfile",
-  "thumbnail-dark.svg",
-  "thumbnail-light.svg",
-  "thumbnail.png",
   "example.pdf",
+  "example.png",
+  "circle_example.png",
+  "square_example.png",
+  "triangle_example.png",
+  "CHANGELOG.md",
 ]
 
 [template]
