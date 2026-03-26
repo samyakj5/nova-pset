@@ -7,7 +7,7 @@ Homework template for STEM coursework and problem sets. Spin-off of [adaptable-p
 
 ### Example front page
 
-![example1](tests/discrete-pset/ref/1.png)
+![example1](example.png)
 
 ### Example logo integrations
 
